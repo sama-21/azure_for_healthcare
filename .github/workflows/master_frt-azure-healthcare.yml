@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'frt-azure-healthcare'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6624C201DFD049529F630B015FC1A111 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD6479C143344599BE703C3F4B45075A }}
           package: .
