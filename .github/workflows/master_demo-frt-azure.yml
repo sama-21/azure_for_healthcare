@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'demo-frt-azure'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A066C8E6ABF496DB661271E61463513 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E5E4428B7BBD4EBFA529B4F3635E86BD }}
           package: .
